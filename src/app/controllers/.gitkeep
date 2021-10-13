@@ -1,0 +1,6 @@
+# This file is used to ignore files in this directory
+# during the Git checkout process.
+#
+# Ignore rule for checking out this directory as a submodule
+#
+# See 'git help submodule' and 'git help ignore' for details.
